@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kazenomonmon99
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning sqraping skill by Python
+- 🌱 I’m currently learning scraping skill by Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me is email→raccoonbeetle0208@gmail.com
 
